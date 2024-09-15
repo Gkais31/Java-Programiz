@@ -46,6 +46,8 @@ If you know Java, you can definitely solve problems in Python. The fundamental p
 
 Java:
 
+
+```
 public class Main {
     public static void main(String[] args) {
         int number1 = 4;
@@ -58,6 +60,7 @@ public class Main {
 
 Python:
 
+```
 number1 = 4
 number2 = 7
 sum = number1 + number2
